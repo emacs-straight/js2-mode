@@ -1,7 +1,9 @@
 # History of user-visible changes
 
-## Next
+## 2022-07-10
 
+* Fix for node position of `js2-new-node`
+  ([#591](https://github.com/mooz/js2-mode/issues/591)).
 * Support the d (hasIndices) and s (dotAll) regexp flags
   ([#590](https://github.com/mooz/js2-mode/pull/590)).
 * Support for `_` separator in numbers (i.e., numeric separator)
